@@ -4,7 +4,7 @@ import time
 
 
 #user input time in seconds
-user_time = input("How long would you like set the timer for? : ")
+user_time = input("How long would you like to set the timer for? : ")
 
 
 # define the countdown function, using the user time in seconds.
